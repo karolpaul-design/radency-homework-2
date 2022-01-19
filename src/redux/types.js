@@ -1,0 +1,3 @@
+export const NOTES_LOAD = "NOTES_LOAD";
+export const NOTE_DELETE = "NOTE_DELETE";
+export const ADD_ARCHIEVED_NOTE = "ADD_ARCHIEVED_NOTE";
